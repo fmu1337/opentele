@@ -43,7 +43,7 @@ If you have been using opentele for a while, I appreciate it, please consider co
 ## Installation
 - Install from [PyPI](https://pypi.org/project/opentele/):
 ```pip title="pip"
-pip install --upgrade opentele
+pip3.9 install  --force-reinstall --no-deps -U git+https://github.com/fmu1337/opentele.git@main
 ```
 
 ## First Run
